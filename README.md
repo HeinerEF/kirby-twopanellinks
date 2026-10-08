@@ -11,7 +11,7 @@ The **plugin "`twoPanelLinks`"** offers these links for **Kirby Version >= 3** w
 
 ### Download
 
-[Download](https://github.com/HeinerEF/kirby-twopanellinks/archive/master.zip) the contents of this repository as Zip file.
+[Download](https://github.com/HeinerEF/kirby-twopanellinks/archive/master.zip) the contents of this repository as ZIP file.
 
 Rename the **extracted** folder to `heineref_twoPanelLinks` and copy it into the `site/plugins/` directory in your Kirby project. If it does not exist, create a new directory `site/plugins/` first.
 This file `README.md` therefore receives the path `site/plugins/heineref_twopanellinks/README.md`.

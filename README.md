@@ -6,6 +6,15 @@ The **plugin "`twoPanelLinks`"** offers these links for **Kirby Version >= 3** w
 
 ![twoPanelLinks](docs/kirby-panel-links-en.png)
 
+> &nbsp;
+> # We must create the VUE component before installing this plugin!!!
+> 
+> Look at https://getkirby.com/docs/guide/plugins/panel
+> 
+> Or **don't** set:  `'panel.vue.compiler' => false,` at your `site/config/config.php` !!!
+> 
+> &nbsp;
+
 
 ## Installation
 
@@ -13,7 +22,7 @@ The **plugin "`twoPanelLinks`"** offers these links for **Kirby Version >= 3** w
 
 [Download](https://github.com/HeinerEF/kirby-twopanellinks/archive/master.zip) the contents of this repository as ZIP file.
 
-Rename the **extracted** folder to `heineref_twoPanelLinks` and copy it into the `site/plugins/` directory in your Kirby project. If it does not exist, create a new directory `site/plugins/` first.
+Rename the **extracted** folder to `heineref_twopanellinks` and copy it into the `site/plugins/` directory in your Kirby project. If it does not exist, create a new directory `site/plugins/` first.
 This file `README.md` therefore receives the path `site/plugins/heineref_twopanellinks/README.md`.
 
 ### Composer
